@@ -10,6 +10,8 @@
 █▀▄ █▄░█ █░█░█ █▄▄ █▀▄ █░█░█ █▄▄ █▀▄ █░█░█ █ █▄▄ █▀▄ █░█░█ █ █▀▄ █▄▄ █░█░█ █ █▄▄ █▀▄ █░█░█ █ █▀▄ █▄▄ █░█░█ █ █▀▄ █▄▄ █░█░█ █ █▀▄
 █▄▀ █░▀█ ▀▄▀▄▀ █▄█ █▄▀ ▀▄▀▄▀ █▄█ █▄▀ ▀▄▀▄▀ █ █▄█ █▄▀ ▀▄▀▄▀ █ █▄▀ █▄█ ▀▄▀▄▀ █ █▄█ █▄▀ 
 
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 <!--
 **misbagas/misbagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
