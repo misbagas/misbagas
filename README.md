@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-Anjay
+Anjay mabar wayauw wayau
+
+katakan anjay
+
+IM From Indonesia
 
 <!--
 **misbagas/misbagas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
