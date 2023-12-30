@@ -1,14 +1,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Google Cyber Security
-- 🌱 I’m currently learning IT
-- 👯 I’m looking to collaborate on Microsoft, Google, 
-- 🤔 I’m looking for help with  () 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Cyber Security and programing
+- 🌱 I’m currently learning Informatic Technology
+- 👯 I’m looking to collaborate on any company or someone else
+- ⚡ contact me: misbahbagaskara@gmail.com
 -->
  
 
